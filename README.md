@@ -5,3 +5,5 @@ Implementation of fast eALS algorithm (from "Fast Matrix Factorization for Onlin
 This algorithm is coded in Python, using Numba compiler to speed up the computations.
 
 Experiments are longly detailed in notebook file.
+
+Authors : Oscar Bouvier & Alexandre Dupuy-Zini.
